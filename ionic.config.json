@@ -1,0 +1,7 @@
+{
+  "name": "RickyTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
